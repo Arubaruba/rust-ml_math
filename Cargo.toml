@@ -1,0 +1,8 @@
+[package]
+
+name = "ml_math"
+version = "0.0.1"
+authors = [ "Your name <you@example.com>" ]
+
+[lib]
+name = "ml_math"
